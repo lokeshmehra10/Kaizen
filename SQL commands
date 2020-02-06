@@ -1,0 +1,4 @@
+Basic Commands
+
+// To fetch whole table contents, use command 
+select * from table;
